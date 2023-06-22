@@ -1,0 +1,102 @@
+img{
+  height: 50px;
+  width: 70px;
+  display: inline-block;
+  vertical-align: middle;
+  margin:7px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+p{
+  display: inline-block;
+  vertical-align: middle;
+  padding-right: 10px;
+  padding-left:10px;
+  
+}
+.cupwinner{
+  display: inline-block;
+  margin-left: 90px;
+}
+.clubName{
+  font-size: 10px;
+}
+
+h1{
+
+  text-align: center;
+}
+.App{
+  text-align: center;
+}
+.club{
+  text-align: left;
+  padding: -100px;
+}
+.club22{
+  text-align: left;
+  padding-right:10px
+}
+h2{
+  text-align: left;
+}
+
+.epl {
+  display: flex;
+}
+.serie {
+  display: flex;
+}
+.laliga {
+  display: flex;
+}
+.bundesliga {
+  display: flex;
+}
+.chams {
+  display: flex;
+}
+
+.season {
+  flex: 1;
+  padding: 20px;
+}
+.club img {
+  cursor: pointer;
+}
+.score{
+  text-align: left;
+}
+.help{
+  text-align: left;
+  display:grid
+
+}
+.league{
+  height: 100px;
+  width: 150px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.CUP{
+  display: inline-block;
+}
+input{
+  padding: 5px;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+}
+.input{
+    width: 100px;
+    text-align: center;
+    margin: px;
+}
+.input-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0px;
+}
+.trophy{
+  width: 28.5px;
+  height: 28.5px;
+}
